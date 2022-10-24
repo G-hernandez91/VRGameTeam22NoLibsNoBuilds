@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 89
+  controlID: 114
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,8 +140,8 @@ MonoBehaviour:
     y: 0
     width: 936
     height: 947
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 90
+  controlID: 80
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,8 +219,8 @@ MonoBehaviour:
     y: 0
     width: 601
     height: 505
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -457,23 +457,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Samples/XR Interaction Toolkit/2.1.1/Starter Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Samples/XR Interaction Toolkit/2.1.1/Starter Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Kyle Knotek\Team-22-VR-Game-Senior-Project\VR Game
     Senior Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 35}
-    m_SelectedIDs: 003d0100
-    m_LastClickedID: 81152
-    m_ExpandedIDs: 00000000a27f0000a47f0000a67f0000a87f0000aa7f0000ac7f0000ae7f0000b07f0000b27f0000c8c2000000ca9a3b
+    scrollPos: {x: 0, y: 115}
+    m_SelectedIDs: 02f00000
+    m_LastClickedID: 61442
+    m_ExpandedIDs: 00000000b4800000b6800000b8800000ba800000bc800000be800000c0800000c2800000c4800000de800000daed0000e2ed0000e8ed000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,7 +501,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a27f0000a47f0000a67f0000a87f0000aa7f0000ac7f0000ae7f0000b07f0000b27f0000
+    m_ExpandedIDs: 00000000b4800000b6800000b8800000ba800000bc800000be800000c0800000c2800000c4800000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,21 +529,21 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000147300003a730000f674000054750000c47100008c710000fe7a0000cc720000ba7200004c720000c6720000548300001a79000000000000
+    m_ExpandedInstanceIDs: c6230000147300003a730000f674000054750000c47100008c710000fe7a0000cc720000ba7200004c720000c6720000548300001a790000000000006c800000b2b701009a760000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: XRI Default Input Actions
+      m_OriginalName: XRI Default Input Actions
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 30468
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
@@ -889,7 +889,7 @@ MonoBehaviour:
       index: 10
       layout: 4
   m_WindowGUID: 9858dcd4ec741924dbfcca6268e3822e
-  m_Gizmos: 0
+  m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -898,9 +898,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.15655077, y: 0.85811514, z: -0.28809276}
+    m_Target: {x: -23.41433, y: -23.430244, z: 31.012589}
     speed: 2
-    m_Value: {x: 0.15655077, y: 0.85811514, z: -0.28809276}
+    m_Value: {x: -23.41433, y: -23.430244, z: 31.012589}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -947,9 +947,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.2559612, y: 0.15870827, z: -0.045794137, w: -0.95332}
+    m_Target: {x: -0.05605801, y: -0.040698074, z: -0.0043084123, w: -0.9985454}
     speed: 2
-    m_Value: {x: -0.2558224, y: 0.15715082, z: -0.04537339, w: -0.95278525}
+    m_Value: {x: -0.054514587, y: -0.042149197, z: -0.0042837607, w: -0.9976137}
   m_Size:
     m_Target: 0.63615745
     speed: 2
@@ -1010,9 +1010,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8e400100
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a041ffff8c79ffffa079ffff067afffffe81ffff7688ffff24d6ffff92d6ffff9edbffffbce5ffffd0e5ffffeae5ffff90f5ffffa8f5ffff22fbffff
+      m_ExpandedIDs: 40fbf2fff2fbf2ffe603f3ffd606f3ff4031f3fff231f3ffe639f3ffd63cf3ffc44bf3ff764cf3ff6a54f3ff5a57f3ff265ef3ffd85ef3ffcc66f3ffbc69f3ff0672f3ffb872f3ffac7af3ff9c7df3ffd47ff3ff8680f3ff7a88f3ff6a8bf3ffaa8ef3ff5c8ff3ff5497f3ff489af3ffd8a7f3ff8aa8f3ff40b3f3ff3ab6f3fff0c7f3ffa2c8f3ff96d0f3ff86d3f3ffacd6f3ff5ed7f3ff52dff3ff42e2f3ff42e5f3fff4e5f3ffecedf3ffe0f0f3ffacf7f3ff5ef8f3ff1803f4ff1206f4ffc615f4ff7816f4ff701ef4ff6421f4ff0626f4ffb826f4ff6e31f4ffb434f4ffdee6f4ff10e7f4ff92fbf4ff44fcf4ff3804f5ff2807f5ff000bf5ffb20bf5ff6a16f5ff6019f5ffce29f5ff802af5ff3635f5ff2c38f5ff2a48f5ffdc48f5ff9253f5ff8856f5ff0e5ff5ffea64f5ff8868f5fffe6af5ffe26ef5ffc479f5ff2418f6ffd82bfffff62bffff322dffff7c33ffff6a37ffffc039ffff80c7fffff6c7ffff00c8ffff12c8ffff2ac8ffff8ac8ffffc4edfffff6edffffeaf4ffff02f5ffff22fbffff7ed8010082d8010086d9010090db0100dadf0100dce00100b4f901000a010200d01902002a30020062380200f6cd0200dece020098d202005ad6020082e40200765303001a69030002800300a6950300
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1028,7 +1028,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 6}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
