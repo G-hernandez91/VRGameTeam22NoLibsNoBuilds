@@ -16,7 +16,7 @@ public class ButtonControl : MonoBehaviour
     [SerializeField] private LayerMask JumpableFloor;
     public XROrigin xrOrigin;
     public AudioSource audioData;
-    private CapsuleCollider collider;
+    public new CapsuleCollider collider;
 
     public Rigidbody body;
 
